@@ -2,8 +2,5 @@ body {
   background: #000000 url('body-bgtile.jpg') repeat 0 0;
 }
 div#landing {
-  margin-top: 20%;
-}
-div#landing .heading {
-  text-align: center;
+  margin-top: 20px;
 }
